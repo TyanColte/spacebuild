@@ -603,6 +603,10 @@ TOOL.Devices = {
         type = "storage_cache",
         func = cache_func,
         devices = {
+       	    small2 = {
+       	    	Name = "Modular Cache",
+       	    	model = "models/spacebuild/milcock4_multipod1.mdl",
+       	    },
             small = {
                 Name = "CE Small",
                 model = "models/ce_ls3additional/resource_cache/resource_cache_small.mdl",
